@@ -1,4 +1,4 @@
-# OP Analytics
+no# OP Analytics
 
 #### 📄 [OP Analytics Repo Documentation](https://static.optimism.io/op-analytics/sphinx/html/index.html)
 
@@ -35,3 +35,4 @@ Once installed, in the command line of the repository, run
 pre-commit install
 ```
 This will install `pre-commit` to the Git hook, so that `pre-commit` will run and fix files covered in its config before committing.
+This project is a demonstration of blockchain technology and smart contract integration.
